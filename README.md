@@ -12,10 +12,9 @@ Vendor tree for Zeblaze Thor 6
 - Incremental: mp1V948
 - Tags: test-keys
 - CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
-- A/B Device: false
+- A/B Device: true
 - Locale: en-US
-- Screen Density: undefined
-- Fingerprint: alps/full_LD_C15_TFT_LFLT/LD_C15_TFT_LFLT:10/QP1A.190711.020/mp1V948:user/test-keys
-- OTA version: 
+- Screen Density: 400
+- Fingerprint: alps/full_XY_C15_TFT_LFLT/XY_C15_TFT_LFLT:10/QP1A.190711.020/mp1V948:user/test-keys
 - Branch: full_LD_C15_TFT_LFLT-user-10-QP1A.190711.020-mp1V948-test-keys
 - Repo: alps/LD_C15_TFT_LFLT
